@@ -7,3 +7,7 @@ Instruções:
 Observações:
 
 1. Devido ao tempo disponível para o desenvolvimento deste projeto teste, algumas premissas da especificação do mesmo, foram deixadas de lado afim de ter entregue algo funcional, e que de forma geral, abrangesse os principais aspectos da natureza desse teste.
+2. Ainda mencionando a falta de tempo disponível para realização do teste, algumas boas praticas, bem como a utilização de recursos foram ignorados tais como:
+   - Utilização do Dapper para conexão com banco de dados
+   - Utilização de Web API
+   - Massivo reaproveitamento de código
