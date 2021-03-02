@@ -1,0 +1,9 @@
+Instruções:
+
+1. Arquivo "CadastroClientes.zip": Contém apenas arquivos utilizados na publicação.
+2. Arquivo "Artefatos SQL Server": Contém script de criação da tabela "Clientes" e as procedures para realização do crud sobre a mesma.
+3. Connectionstring para conexão com o banco de dados, deve ser substituída pelos parâmetros requeridas pelo ambiente em que esta publicação será testada.
+
+Observações:
+
+1. Devido ao tempo disponível para o desenvolvimento deste projeto teste, algumas premissas da especificação do mesmo, foram deixadas de lado afim de ter entregue algo funcional, e que de forma geral, abrangesse os principais aspectos da natureza desse teste.
